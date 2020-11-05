@@ -1,6 +1,5 @@
 import express from 'express';
 import {
-  getOptedCourseWithUsers,
   login,
   register,
   getAllUsers,
@@ -109,24 +108,6 @@ router.post('/login', async (req, res) => {
       res.end(JSON.stringify(err));
     }
   });
-
-/**
-* GET Request
-* response in json with all courses
-*/
-router
-.get('/listCourse', authMiddleware,async (req, res) => {
-  logger.debug(' GET All opted courses');
-  try {
-    const user = await getOptedCourseWithUsers();
-    res.end(JSON.stringify(user, null, 2));
-  } catch (err) {
-    res.status(500).json({
-      status: 'failed',
-      error: err,
-    });
-  }
-});
 
 
 
