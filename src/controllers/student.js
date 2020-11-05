@@ -115,21 +115,6 @@ export const createOne = async (data) => {
 
 
 
-/**
- * @async
- * Create User
- *  @param {data}
- */
-export const getOptedCourseWithUsers = async () => {
-    logger.silly('in createOne');
-    try {
-        return await OptedCourse.find().populate('studentId').populate('courseId');
-    } catch (err) {
-        logger.error(err);
-        throw new Error(` Err: ${err}`);
-    }
-};
-
 
 /**
  * @async
