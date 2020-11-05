@@ -1,0 +1,1880 @@
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: undefined","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: undefined","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: ","level":"info"}
+{"message":"Routes[users.js]: undefined","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: quotes is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: $2b$10$Zi5vY9Vw1RGWoO/x.9HDtOeBb.w5mLEzPvxfwVD.SfMY2keukg5p.","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: {\n  role: 'User',\n  _id: 5ec80cdaeed45541dc6a72ac,\n  username: 'rahul',\n  password: '$2b$10$Zi5vY9Vw1RGWoO/x.9HDtOeBb.w5mLEzPvxfwVD.SfMY2keukg5p.',\n  firstname: 'rahul',\n  lastname: 'gupta',\n  __v: 0\n}","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: undefined","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: undefined","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: {\n  role: 'User',\n  _id: 5ec80cdaeed45541dc6a72ac,\n  username: 'rahul',\n  password: '$2b$10$Zi5vY9Vw1RGWoO/x.9HDtOeBb.w5mLEzPvxfwVD.SfMY2keukg5p.',\n  firstname: 'rahul',\n  lastname: 'gupta',\n  __v: 0\n}","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: undefined","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: rahul","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: token is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTAxNzAwMjh9.5LONRRwS9onhL1h0DiDGyAyF3v2XNJlh9dzCcx6jXR0","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: userres is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTAxNzAwNDl9.v8Pk-5Vhzdd9Wg_hjaTFgJvAMNMKfo-ug-nFz2T76YU","level":"info"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTAxNzAwNzZ9.r1mDLIRo9B8PgATZC7ZlKHcIb2kLbyo8YxXwinm_fiU","level":"info"}
+{"message":"Controller[users.js]: ReferenceError: userres is not defined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTAxNzAwOTN9.FoV04hdIsQyVqdTh8w3_nKNa-27ZstgrQXvFrZeFWK8","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Routes[quotes.js]: quotes GET All","level":"debug"}
+{"message":"Routes[quotes.js]: {}","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: undefined","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: undefined","level":"info"}
+{"message":"Controller[quote.js]: undefined","level":"info"}
+{"message":"Routes[quote.js]: undefined","level":"info"}
+{"message":"Controller[quote.js]: undefined","level":"info"}
+{"message":"Routes[quote.js]: undefined","level":"info"}
+{"message":"Controller[quote.js]: undefined","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"author\": \"Rahul\",\n  \"quote\": \"Never lose Hope\",\n  \"likes\": 4,\n  \"createdBy\": \"5ec80cdaeed45541dc6a72ac\"\n}","level":"info"}
+{"message":"Controller[quote.js]: [object Object]","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Main[app.js]: [object Object]","level":"info"}
+{"message":"Routes[quotes.js]: quotes GET All","level":"debug"}
+{"message":"Routes[quotes.js]: {}","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Routes[quotes.js]: quotes GET All","level":"debug"}
+{"message":"Routes[quotes.js]: {}","level":"info"}
+{"message":"Main[app.js]: [object Object]","level":"info"}
+{"message":"Routes[quotes.js]: quotes GET All","level":"debug"}
+{"message":"Routes[quotes.js]: {}","level":"info"}
+{"message":"Main[app.js]: [object Object]","level":"info"}
+{"message":"Routes[quotes.js]: quotes GET All","level":"debug"}
+{"message":"Routes[quotes.js]: {}","level":"info"}
+{"message":"Main[app.js]: [object Object]","level":"info"}
+{"message":"Routes[quotes.js]: quotes GET All","level":"debug"}
+{"message":"Routes[quotes.js]: {}","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Routes[quotes.js]: quotes GET All","level":"debug"}
+{"message":"Routes[quotes.js]: {}","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Routes[quotes.js]: quotes GET All","level":"debug"}
+{"message":"Routes[quotes.js]: {}","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Routes[quotes.js]: quotes GET All","level":"debug"}
+{"message":"Routes[quotes.js]: {}","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Routes[quotes.js]: quotes GET All","level":"debug"}
+{"message":"Routes[quotes.js]: {}","level":"info"}
+{"message":"Main[app.js]: [object Object]","level":"info"}
+{"message":"Main[app.js]: [object Object]","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Main[app.js]: [object Object]","level":"info"}
+{"message":"Main[app.js]: [object Object]","level":"info"}
+{"message":"Main[app.js]: [object Object]","level":"info"}
+{"message":"Main[app.js]: [object Object]","level":"info"}
+{"message":"Main[app.js]: [object Object]","level":"info"}
+{"message":"Main[app.js]: [object Object]","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Main[app.js]: null","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Main[app.js]: undefined","level":"info"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: undefined","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE1OTAxNzQyODB9.em3FZwlu-5ZfizK-oxEZk5cnoMl9lw9nXu2YbuYSVYY","level":"info"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDE3NDM2M30.qd6Stg_wb4Zx28oybYspjp6tB2zkEOo82v9wR11y9Js","level":"info"}
+{"message":"Main[app.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"author\": \"updated Author\",\n  \"quote\": \"Dummy \",\n  \"likes\": 5,\n  \"createdBy\": \"5ec80cdaeed45541dc6a72ac\"\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"author\": \"updated Author\",\n  \"quote\": \"Dummy \",\n  \"likes\": 5,\n  \"createdBy\": \"5ec80cdaeed45541dc6a72ac\"\n}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"author\": \"updated Author\",\n  \"quote\": \"Dummy \",\n  \"likes\": 5,\n  \"createdBy\": \"5ec80cdaeed45541dc6a72ac\"\n}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"author\": \"updated Author\",\n  \"quote\": \"Dummy \",\n  \"likes\": 5,\n  \"createdBy\": \"5ec80cdaeed45541dc6a72ac\"\n}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"author\": \"updated Author\",\n  \"quote\": \"Dummy \",\n  \"likes\": 5,\n  \"createdBy\": \"5ec80cdaeed45541dc6a72ac\"\n}","level":"info"}
+{"message":"Controller[quote.js]: from controller","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"author\": \"updated Author\",\n  \"quote\": \"Dummy Updatd Data \",\n  \"likes\": 5,\n  \"createdBy\": \"5ec80cdaeed45541dc6a72ac\"\n}","level":"info"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDMzOTA5Nn0.iadIE3iSob9PJ0t8QWLCmrI5A2mxQa0gPL6Gll0ShY0","level":"info"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDMzOTE4Nn0.cWIjbLZvmmaGKrHtAJvw4ffksinMeO54G5khoBCefHs","level":"info"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of undefined","level":"error"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of undefined","level":"error"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of undefined","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: Error: data and hash arguments required","level":"error"}
+{"message":"Controller[users.js]: 123456","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDMzOTg0OH0.ddRa5kH3D0gobuv2_ZXSuvCCLTVBRwkFU_lutna1I8A","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"username\": \"rahul\",\n  \"password\": \"123456\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of undefined","level":"error"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of undefined","level":"error"}
+{"message":"Main[app.js]: rahul","level":"info"}
+{"message":"Main[app.js]: rahul123","level":"info"}
+{"message":"Main[app.js]: rahul","level":"info"}
+{"message":"Main[app.js]: rahul123","level":"info"}
+{"message":"Main[app.js]: rahul","level":"info"}
+{"message":"Main[app.js]: rahul123","level":"info"}
+{"message":"Main[app.js]: rahul","level":"info"}
+{"message":"Main[app.js]: rahul123","level":"info"}
+{"message":"Main[app.js]: rahul","level":"info"}
+{"message":"Main[app.js]: rahul123","level":"info"}
+{"message":"Main[app.js]: rahul","level":"info"}
+{"message":"Main[app.js]: rahul123","level":"info"}
+{"message":"Main[app.js]: rahul","level":"info"}
+{"message":"Main[app.js]: rahul123","level":"info"}
+{"message":"Main[app.js]: rahul","level":"info"}
+{"message":"Main[app.js]: rahul123","level":"info"}
+{"message":"Main[app.js]: rahul","level":"info"}
+{"message":"Main[app.js]: rahul123","level":"info"}
+{"message":"Main[app.js]: rahul","level":"info"}
+{"message":"Main[app.js]: rahul123","level":"info"}
+{"message":"Main[app.js]: rahul","level":"info"}
+{"message":"Main[app.js]: rahul123","level":"info"}
+{"message":"Main[app.js]: rahul","level":"info"}
+{"message":"Main[app.js]: rahul123","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Controller[users.js]: [object Object]","level":"info"}
+{"message":"Controller[users.js]: Error: findByEmail Err: CastError: Cast to string failed for value \"{ username: 'admin' }\" at path \"username\" for model \"User\"","level":"error"}
+{"message":"Controller[users.js]: Error: findByEmail Err: CastError: Cast to string failed for value \"{ username: 'admin' }\" at path \"username\" for model \"User\"","level":"error"}
+{"message":"Controller[users.js]: Error: findByEmail Err: CastError: Cast to string failed for value \"{ username: 'rahul' }\" at path \"username\" for model \"User\"","level":"error"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of undefined","level":"error"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of undefined","level":"error"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of undefined","level":"error"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of undefined","level":"error"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of undefined","level":"error"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of undefined","level":"error"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of undefined","level":"error"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of undefined","level":"error"}
+{"message":"Controller[users.js]: TypeError: Cannot read property '_id' of undefined","level":"error"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDM5OTYwMn0.LeGXa3EYyply31AWorRoKhCCCpyxNWqpHpNwSKCBgCQ","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDM5OTY3NX0.37WytFOcOyLWkVyew5ZkQkzSDqZ_0IwGk4_vZistLY4","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDM5OTcyNn0.1LjMJthonGphSTb5nsaRBEqqq-DKgwKtBmqvb1fsYNU","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwMjU0MX0.2E0-j8UhlrCcFHHGWa1cgShHe73vADCUFxcnnSKr76I","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwMjU4Mn0.ftRIi57EPANIJ-KVNFHyLJ2wLQ3lPT2oiYLOuEZVgBQ","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwMjY1M30.aqMtEtkGmslcwuAIZ9ODet3-w6AoRr5ymYb2mFfJm_c","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwMzk5MX0.tZReU7PU5zNuhdJdinTDlhdd_tVy1otNNj_JNttKycI","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwNDUzOX0.PPikeBaCk5jTy2mSnotvAxRTGJxA6zo0I_GqEZehGwA","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwNDU5NH0.UYyvB5Nhf2yoptl8B9Vmj5KV4Yd7ORlFqvoZ2JAAirQ","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwNDY2OX0.2ScJ0pq-BmzliFly8UXofSsMYTBBQ4iU4jdJ63-AQHk","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwNDc3NX0.QvBqU0UuBRu0ATTNkNMUbFdqE8GpX81SPRG2gdhUbVA","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwNDgyMX0.WK5QGzKYD5WnPFUN9J9sh7jLJh-_5xmGIokKPHvbZYM","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwNjU2Nn0.cGzpLOqkvfrf3f5XTvii2197vl9uBBv_1BJ-pqAW4YI","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwNjY4M30.KHgjhPJd9uKSisGTwbRFDvDD1qYRxOH9NSOrinqQfwM","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwNjczN30.lTWRKpPcUHBo0SXiRiMpSvgZlOKYDgcyfwqVkxjKfgg","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwNjc4N30.q4VqrEj9CwK2ex4-D_83DLYnWYiUfoY9fd93o5auAZI","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDQwNzIwN30.dZNxWlo2lrUfoxnmMuyTyYh8GMYWQlZHBHK-y_pyw14","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: Unauthorize","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwNzI2NX0.mgO5APfFb5sv5NuOYZdGlhmGQzVVkrPD45RBK7GX_Wo","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDQwNzI4OH0.JCGASW9SsII8AEl9ohecEL6ZlMDyJ1qb7c32cEIIaDo","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQwNzQwNX0.8xh6r5xpU8-Pcq3wwvZK8Izl3ozBtVJc_vPFyiEOK7I","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDQwNzQ4OH0.KVojGDada1aWYPNYBHETSizX7toHqCoudUegqPKv45g","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQxMjc0NX0.v_xNc1I-h8TuWhtqHVZ4_pbn9i9j1gRAXqiWA7Jj3OA","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQyNjY3OH0.UPjJ3gkedt5Tr98oY8ntP44-LvXB7P8fGGccfaXAWEQ","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQyNjY4Nn0.urgPziExEBRXjH_Iqp2drujUZg-gws8N-FVWR_WGzXE","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQyNjcyOH0.kX9S7e9tbE8eKvpZqrLCaOgvZMhoLN4el9v57uhrmBU","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDQyNjgyNH0.njEuvqSl8sOrruNQG4_DAXY0cFmlE0WPTlFhLqVllH4","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQyNjk4OH0.G9Dd2M9y3EmZwwyWRQAwlZ1QP11UJItI_XESGG_JXu0","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDQ4Mzg5OX0.eRpNqDCC8fWqK_fo6RwcCuXulfrdBRUGffQlT2ZRQhY","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5eccdbab867e044e0031652a","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"gagan\",\n  \"lastname\": \"Parmar\",\n  \"username\": \"gagan\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"gagan\",\n  \"lastname\": \"Parmar\",\n  \"username\": \"gagan\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"gagan\",\n  \"lastname\": \"Parmar\",\n  \"username\": \"gagan\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"role\": \"User\",\n  \"_id\": \"5eccdbab867e044e0031652a\",\n  \"firstname\": \"gagan\",\n  \"lastname\": \"Parmar\",\n  \"username\": \"gagan\",\n  \"password\": \"$2b$10$AAuLAd9EHV.gcgFRTtbjkeejKU/fn.OyxLyV2kf4.Z/5xVQ6MCqkK\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"role\": \"User\",\n  \"_id\": \"5eccdbab867e044e0031652a\",\n  \"firstname\": \"gagan\",\n  \"lastname\": \"Parmar\",\n  \"username\": \"gagan\",\n  \"password\": \"$2b$10$AAuLAd9EHV.gcgFRTtbjkeejKU/fn.OyxLyV2kf4.Z/5xVQ6MCqkK\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"gagan\",\n  \"lastname\": \"Parmar\",\n  \"username\": \"gagan\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"gagan\",\n  \"lastname\": \"Parmar\",\n  \"username\": \"gagan\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"gagan\",\n  \"lastname\": \"Parmar\",\n  \"username\": \"gagan\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"gagan\",\n  \"lastname\": \"Parmar\",\n  \"username\": \"gagan\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5eccdbab867e044e0031652a","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"author\": \"Rahul Gupta\",\n  \"quote\": \"Never lose Hope live happily\",\n  \"likes\": 4,\n  \"createdBy\": \"5ec80cdaeed45541dc6a72ac\"\n}","level":"info"}
+{"message":"Controller[quote.js]: [object Object]","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ecce2e4ed1532255896a3d2","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Routes[quote.js]: 5ecce2e4ed1532255896a3d2","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"author\": \"Rahul Gupta\",\n  \"quote\": \"this world will never change\"\n}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDUxMDg5Nn0.oLcfGste9bOJYxINMNktVZpMLwpUCGzloMApJ76fkCA","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDUxMDkwMX0.APtmnemKr0S07Oco4itt-5Vmnlrjiku7yYAKmc5I8Vw","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"id\": \"5ecab3b31d626410f81d28a8\",\n  \"username\": \"admin\",\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDUxMDkwMX0.APtmnemKr0S07Oco4itt-5Vmnlrjiku7yYAKmc5I8Vw\",\n  \"role\": \"Admin\",\n  \"firstName\": \"yash\",\n  \"lastName\": \"Gupta\",\n  \"userName\": \"admin\",\n  \"password\": \"\"\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"id\": \"5ecab3b31d626410f81d28a8\",\n  \"username\": \"admin\",\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDUxMDkwMX0.APtmnemKr0S07Oco4itt-5Vmnlrjiku7yYAKmc5I8Vw\",\n  \"role\": \"Admin\",\n  \"firstName\": \"yash\",\n  \"lastName\": \"Gupta\",\n  \"userName\": \"admin\",\n  \"password\": \"\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"id\": \"5ecab3b31d626410f81d28a8\",\n  \"username\": \"admin\",\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDUxMDkwMX0.APtmnemKr0S07Oco4itt-5Vmnlrjiku7yYAKmc5I8Vw\",\n  \"role\": \"Admin\",\n  \"firstName\": \"Yash\",\n  \"lastName\": \"Gupta\",\n  \"userName\": \"admin\",\n  \"password\": \"\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstName\": \"Yash\",\n  \"lastName\": \"Gupta\",\n  \"userName\": \"admin\",\n  \"password\": \"\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"id\": \"5ecab3b31d626410f81d28a8\",\n  \"username\": \"admin\",\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"token\": \"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDUxMDkwMX0.APtmnemKr0S07Oco4itt-5Vmnlrjiku7yYAKmc5I8Vw\",\n  \"role\": \"Admin\",\n  \"firstName\": \"Yash\",\n  \"lastName\": \"Gupta\",\n  \"userName\": \"admin\",\n  \"password\": \"\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstName\": \"Yash\",\n  \"lastName\": \"Gupta\",\n  \"userName\": \"admin\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstName\": \"Chaheti\",\n  \"lastName\": \"Gupta\",\n  \"userName\": \"admin\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Yash\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Yash\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Yash\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\",\n  \"password\": \"admin1234\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Yash\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstName\": \"Shubham\",\n  \"lastName\": \"gupta\",\n  \"username\": \"rahul\",\n  \"password\": \"\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"username\": \"rahul\",\n  \"password\": \"\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Shubham\",\n  \"lastname\": \"gupta\",\n  \"username\": \"rahul\",\n  \"password\": \"\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Shubham\",\n  \"lastname\": \"gupta\",\n  \"username\": \"rahul\",\n  \"password\": \"123456\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDUxMzk2MX0.0w21gyxQNS5R1ldbUyey-RIljwJ_sqWB-w6KCMzXygA","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Shubham\",\n  \"lastname\": \"gupta\",\n  \"username\": \"rahul\",\n  \"password\": \"\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Shubham\",\n  \"lastname\": \"gupta\",\n  \"username\": \"rahul\",\n  \"password\": \"123456\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDUxNDI0Nn0.NjVQCYKd1TvBupxpP1eaw1m6ZfMe8jV_tU7OmuBNDCE","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Shubham\",\n  \"lastname\": \"gupta\",\n  \"username\": \"rahul\",\n  \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\"\n}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDUxNDI2MX0.L2kAWbakNOCeCPTlDQnbfBRkbr0IqtjF2uv72XQJL-Q","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab1354b89d401687b6280","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab1354b89d401687b6280","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecd547e616e3941ec6360ae","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2Q1NDdlNjE2ZTM5NDFlYzYzNjBhZSIsImlhdCI6MTU5MDUxNDg0NX0.VzmHB_Wn5a6en2gNLU3hxel6zGIuAamq6SS0LZbnNkc","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDUxNDg2OH0.bDvmio_sIN-9u7oyqIiZwnojtF3NF3gj3Xu4qwv_a14","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDUxNTE3NH0.dLCvOhKwCxc08MqibUeVjO6Ecgn23IsbGkMxW7yJOV4","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: 5ecd547e616e3941ec6360ae","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2Q1NDdlNjE2ZTM5NDFlYzYzNjBhZSIsImlhdCI6MTU5MDUxNTI2NX0.HKJfntuFz5lzpFLYt6-1uLJzqPah18QTJRRomHaTQR0","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: userid","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ec816eecc0c983f909b7cf4\",\n  \"author\": \"updated Author\",\n  \"quote\": \"Dummy Updatd Data \",\n  \"likes\": 6,\n  \"createdBy\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Shubham\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-22T18:16:14.886Z\",\n  \"updatedAt\": \"2020-05-24T17:04:43.338Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDUxNTg2MH0.KMbbVNNrcaoMU9dMCCShdDzqFgYa505ZiDewnk-JABk","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDUxNjE5Nn0.dM7tBdJNNcXTVVmrhyH54EfdpUdaDIPo8oYXvj2jCsM","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDUxNjM3OH0.ysKr3M_mcCHXG57Sb1Hwe-QfNjnlxEa1aXfb2pL2kok","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDUxNjUyMX0.2KdoXdJVl38Z1WqHFwTO-4OFaNVKf0rwPEgTKezI_RI","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDUxNjY2MH0.4fvGFpBV8Xzy8ZlhJOycTy9KL4AFKiTR8N6aFo2nfcY","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDUxNjY2OH0.sOAqKVE9kaz3jVQUUEIvk5sbNUnDpENM6_icect9bwQ","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ec816eecc0c983f909b7cf4\",\n  \"author\": \"updated Author\",\n  \"quote\": \"Dummy Updatd Data \",\n  \"likes\": 7,\n  \"createdBy\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Shubham\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-22T18:16:14.886Z\",\n  \"updatedAt\": \"2020-05-26T17:54:37.402Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ec816eecc0c983f909b7cf4","level":"info"}
+{"message":"Routes[quote.js]: 5ec816eecc0c983f909b7cf4","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Let's Finish it\",\n  \"author\": \"Rahul..\",\n  \"created\": \"5ec80cdaeed45541dc6a72ac\",\n  \"likes\": \"\",\n  \"createdBy\": \"5ec80cdaeed45541dc6a72ac\"\n}","level":"info"}
+{"message":"Controller[quote.js]: [object Object]","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ecd5d7e616e3941ec6360af","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Let's Update it\",\n  \"author\": \"Rahul..\",\n  \"likes\": null\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecd5d7e616e3941ec6360af\",\n  \"quote\": \"Let's Update it\",\n  \"author\": \"Rahul..\",\n  \"likes\": 1,\n  \"createdBy\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Shubham\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-26T18:18:38.254Z\",\n  \"updatedAt\": \"2020-05-26T18:18:50.993Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Hello dear\",\n  \"author\": \"Sunil..\",\n  \"created\": \"5ec80cdaeed45541dc6a72ac\",\n  \"likes\": \"\",\n  \"createdBy\": \"5ec80cdaeed45541dc6a72ac\"\n}","level":"info"}
+{"message":"Controller[quote.js]: [object Object]","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecd5e1c616e3941ec6360b0\",\n  \"quote\": \"Hello dear\",\n  \"author\": \"Sunil..\",\n  \"likes\": 1,\n  \"createdBy\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Shubham\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-26T18:21:16.868Z\",\n  \"updatedAt\": \"2020-05-26T18:21:16.868Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDUxNzI5MX0.e0VsqTDkItH8qtUc8BaE2pZgjmIhnCEAKRheJpyFAco","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDUxNzM3Mn0.uZ8TsftoOQ2QcSG1rwKKKbh_Zj8cVYdyri8JKHGlDwE","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Hey How's everything\",\n  \"author\": \"unknown\",\n  \"created\": \"5ec80cdaeed45541dc6a72ac\",\n  \"likes\": \"\",\n  \"createdBy\": \"5ec80cdaeed45541dc6a72ac\"\n}","level":"info"}
+{"message":"Controller[quote.js]: [object Object]","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ecd5e99616e3941ec6360b1","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Hey How's everything\",\n  \"author\": \"Known\",\n  \"likes\": null\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Added new Quote\",\n  \"author\": \"myname\",\n  \"created\": \"5ec80cdaeed45541dc6a72ac\",\n  \"likes\": \"\",\n  \"createdBy\": \"5ec80cdaeed45541dc6a72ac\"\n}","level":"info"}
+{"message":"Controller[quote.js]: [object Object]","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ecd5efc616e3941ec6360b2","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Added new Quote\",\n  \"author\": \"Update name\",\n  \"likes\": null\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ecd5e1c616e3941ec6360b0","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Hello dear\",\n  \"author\": \"Sunil gupta\",\n  \"created\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Shubham\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"likes\": 1\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Added latest quote\",\n  \"author\": \"Rahul\",\n  \"created\": \"5ec80cdaeed45541dc6a72ac\",\n  \"likes\": \"\",\n  \"createdBy\": \"5ec80cdaeed45541dc6a72ac\"\n}","level":"info"}
+{"message":"Controller[quote.js]: [object Object]","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecd5e99616e3941ec6360b1\",\n  \"quote\": \"Hey How's everything\",\n  \"author\": \"Known\",\n  \"likes\": 1,\n  \"createdBy\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Shubham\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-26T18:23:21.644Z\",\n  \"updatedAt\": \"2020-05-26T18:23:40.079Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDUxNzY5Mn0.gmH9HilI4T0LqO6-MYNtHdSOQhIEjuuv8PXFOP-relQ","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecd547e616e3941ec6360ae","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2Q1NDdlNjE2ZTM5NDFlYzYzNjBhZSIsImlhdCI6MTU5MDU4NDM1M30.xDoUbcyKgoUzge90BJE8d7aoXk8wK_3JNQh-tr3pzrk","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ecd547e616e3941ec6360ae","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"server[server.js]: server started","level":"error"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"Routes[quote.js]: 5ecd5e99616e3941ec6360b1","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDYwMTAyM30.xxFgRWtVbQ9qjOv4qUYjkEMx2tIhMtWhJ0sOxS3jHNI","level":"info"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDYwMjM3NX0.Il7NEwo-WBj5cV4YOz4yZrbIvfTWgxUEaGiGHPeG2s4","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDYwMjM3OH0.5PwPB0knue9LB4kWUCTl-4WYnSr9v9C1fYrFm8Ayass","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\"\n}","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDYwNDA3OH0.POm-ouxXWgzTecqT0GOuyGgXiLM_3iljkYGWy2GkKGY","level":"info"}
+{"message":"Routes[users.js]: {\n  \"id\": \"5ec80cdaeed45541dc6a72ac\",\n  \"iat\": 1590604078\n}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDYwNjQ1MH0.MRko4e2ZU_ikJKPFX7RvA_FRKQ5z9EJL_Hc1gS6Zowc","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDYwNjQ1OH0.ynR7xXuVcY75j9s0fRZK-X250zQB7DfwTMsPQCK_zrY","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\"\n}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: 5ecd547e616e3941ec6360ae","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2Q1NDdlNjE2ZTM5NDFlYzYzNjBhZSIsImlhdCI6MTU5MDYwNjU0MX0.Jthec2HFuS21WucmiwlrgyaY0i45eG96yc6Anmst8ew","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDYwNjYyOX0.9p_zy2P281QChkYdK4AkbZz84Hj_7KnBv-Y4m_jwBiE","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\"\n}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDYwNjc3N30.rgwwfxgglwpv-K921ZlWzRO3rQqlcOqKih3Qa3qf-s8","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDYwNjgwM30.CeSjOCZXaV-ghGa7OEREUPwRMMjI4pLGNyHQJBcgSLc","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Latest quote\",\n  \"author\": \"Rahul\",\n  \"created\": \"5ecab3b31d626410f81d28a8\",\n  \"likes\": \"\",\n  \"createdBy\": \"5ecab3b31d626410f81d28a8\"\n}","level":"info"}
+{"message":"Controller[quote.js]: [object Object]","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ecd5d7e616e3941ec6360af","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ecebbe52af7753aa4246b7d","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Latest updated quote\",\n  \"author\": \"Rahul\",\n  \"created\": {\n    \"role\": \"Admin\",\n    \"_id\": \"5ecab3b31d626410f81d28a8\",\n    \"firstname\": \"Chaheti\",\n    \"lastname\": \"Gupta\",\n    \"username\": \"admin\",\n    \"password\": \"$2b$10$qP4cVPOF/JyP0WBii/zaTOCB9DW6ad5RqE0HI2cgzjOSbeQhcK/cO\",\n    \"__v\": 0\n  },\n  \"likes\": null\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Rahul Gupta\",\n  \"lastname\": \"gupta\",\n  \"username\": \"rahul\",\n  \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\"\n}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDYwNzMxNn0.PXbGPXAuZTz7cAR4DO9kU5hTnyGJG0gMK8eTsUYOylo","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecd5d7e616e3941ec6360af\",\n  \"quote\": \"Let's Update it\",\n  \"author\": \"Rahul..\",\n  \"likes\": 2,\n  \"createdBy\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Rahul Gupta\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-26T18:18:38.254Z\",\n  \"updatedAt\": \"2020-05-26T18:18:55.259Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDYwNzQzOH0.4zl8m-QkxPFSOB3ydV2f9Dm9vuwpYaTz2PpZDO9KQOg","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ecd547e616e3941ec6360ae","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"shivam\",\n  \"lastname\": \"Yaav\",\n  \"username\": \"shivam\",\n  \"password\": \"$2b$10$mW89nKkjTCnqp5wLABxkPeayGp2ioGZf8vBw7aWGam/iuwky2sNrO\"\n}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ecd545e616e3941ec6360ad","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Sunil\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"rahulgupta0240\",\n  \"password\": \"$2b$10$.UIqfolzouu1dB/bFDYH1.Dy270.uU1LU7vd1zOrbKIsdnEc9hbcG\"\n}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecd547e616e3941ec6360ae","level":"info"}
+{"message":"Controller[users.js]: 5ecd547e616e3941ec6360ae","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2Q1NDdlNjE2ZTM5NDFlYzYzNjBhZSIsImlhdCI6MTU5MDYwNzUxNn0.kKGPm55F80x14330PiAG6tFABJ2yWJ8edMwzXMIVVCQ","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ecd547e616e3941ec6360ae","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"shivam\",\n  \"lastname\": \"Yaav\",\n  \"username\": \"shivam\"\n}","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"shivam\",\n  \"lastname\": \"Yaav\",\n  \"username\": \"shivam\",\n  \"password\": \"123456\"\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDYwNzU3N30.uIaYH3LW5v08nFe87dSo_GgOWM6GJfD81SGl8SCMrMI","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecd5e99616e3941ec6360b1\",\n  \"quote\": \"Hey How's everything\",\n  \"author\": \"Known\",\n  \"likes\": 2,\n  \"createdBy\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Rahul Gupta\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-26T18:23:21.644Z\",\n  \"updatedAt\": \"2020-05-26T18:27:58.851Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecd5e99616e3941ec6360b1\",\n  \"quote\": \"Hey How's everything\",\n  \"author\": \"Known\",\n  \"likes\": 3,\n  \"createdBy\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Rahul Gupta\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-26T18:23:21.644Z\",\n  \"updatedAt\": \"2020-05-27T19:27:10.643Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecebbe52af7753aa4246b7d\",\n  \"quote\": \"Latest updated quote\",\n  \"author\": \"Rahul\",\n  \"likes\": 1,\n  \"createdBy\": {\n    \"role\": \"Admin\",\n    \"_id\": \"5ecab3b31d626410f81d28a8\",\n    \"firstname\": \"Chaheti\",\n    \"lastname\": \"Gupta\",\n    \"username\": \"admin\",\n    \"password\": \"$2b$10$qP4cVPOF/JyP0WBii/zaTOCB9DW6ad5RqE0HI2cgzjOSbeQhcK/cO\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-27T19:13:41.558Z\",\n  \"updatedAt\": \"2020-05-27T19:14:09.002Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecd5d7e616e3941ec6360af\",\n  \"quote\": \"Let's Update it\",\n  \"author\": \"Rahul..\",\n  \"likes\": 3,\n  \"createdBy\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Rahul Gupta\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-26T18:18:38.254Z\",\n  \"updatedAt\": \"2020-05-27T19:22:11.422Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\"\n}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\"\n}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\"\n}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\"\n}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\"\n}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\"\n}","level":"info"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\",\n  \"password\": \"$2b$10$qP4cVPOF/JyP0WBii/zaTOCB9DW6ad5RqE0HI2cgzjOSbeQhcK/cO\"\n}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Chaheti\",\n  \"lastname\": \"Gupta\",\n  \"username\": \"admin\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDYwODMxMn0.SIStuGc6pAcbGm6ES4dZDUVCVprcXzX4dJ81IfMKrgc","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecd5e1c616e3941ec6360b0\",\n  \"quote\": \"Hello dear\",\n  \"author\": \"Sunil gupta\",\n  \"likes\": 2,\n  \"createdBy\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Rahul Gupta\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-26T18:21:16.868Z\",\n  \"updatedAt\": \"2020-05-26T18:27:28.316Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"server[server.js]: server started","level":"silly"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Authentication[authenticate.js]: Unauthorize","level":"info"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDY1ODYwMX0.0PSx2YoxPkRxEd-dBI-2PGDthik7TVwbrZMz5YWyipQ","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Rahul\",\n  \"lastname\": \"gupta\",\n  \"username\": \"rahul\",\n  \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\"\n}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDY1ODYyNn0.RVQVI9zAWVggneOfL0fJ3qryQklrmCrKj-crcAw8t1M","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ecd5e1c616e3941ec6360b0","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Hi this is my first quote\",\n  \"author\": \"Rahul gupta\",\n  \"created\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Rahul\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"likes\": 2\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecebbe52af7753aa4246b7d\",\n  \"quote\": \"Latest updated quote\",\n  \"author\": \"Rahul\",\n  \"likes\": 2,\n  \"createdBy\": {\n    \"role\": \"Admin\",\n    \"_id\": \"5ecab3b31d626410f81d28a8\",\n    \"firstname\": \"Chaheti\",\n    \"lastname\": \"Gupta\",\n    \"username\": \"admin\",\n    \"password\": \"$2b$10$0VNGUxw9ml1GbfHg9q8aPOV3PTBUE5AWId7OyBr.hQm9iLkZgngsW\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-27T19:13:41.558Z\",\n  \"updatedAt\": \"2020-05-27T19:27:21.525Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: 5ecf86860017dc47b819aee7","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2Y4Njg2MDAxN2RjNDdiODE5YWVlNyIsImlhdCI6MTU5MDY1ODY5OX0.JpaFjoutgB7F2hXsAxZkaF603XKXoDtUMhe1wBIrNrc","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Hey this is nayan this is my first quote\",\n  \"author\": \"nayan..\",\n  \"created\": \"5ecf86860017dc47b819aee7\",\n  \"likes\": \"\",\n  \"createdBy\": \"5ecf86860017dc47b819aee7\"\n}","level":"info"}
+{"message":"Controller[quote.js]: [object Object]","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDY1ODc0M30.E6kICdlTGry2AGZ4SyV95M2UcdMixetfqeIHjmj2P6U","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecd547e616e3941ec6360ae","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2Q1NDdlNjE2ZTM5NDFlYzYzNjBhZSIsImlhdCI6MTU5MDY1ODc1NX0.H7KHDXtTm2rxb3xZetXmSqQXsNCMFhYFaCatr3vfdnE","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecf86860017dc47b819aee7","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2Y4Njg2MDAxN2RjNDdiODE5YWVlNyIsImlhdCI6MTU5MDY1ODc2M30.PkkT6gQdZupkuw4AxqIiX74dbVP5cAiqAA_iwW1-r8A","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecf87720017dc47b819aee9","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2Y4NzcyMDAxN2RjNDdiODE5YWVlOSIsImlhdCI6MTU5MDY1ODk0NH0.VcqB4H5vwtvCduli3uvw6YPS5NSaBnmURDeXGBscy_s","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDY1ODk1NX0.3GNrQ94lBAZg_kkeil05Bmto6bm00hdYgHAcusvRpdk","level":"info"}
+{"message":"Routes[quote.js]: Users GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Authentication[authenticate.js]: Unauthorize","level":"info"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDc3MjkwMn0.dNwRvOlFoVtc1-8bW_qEsOKEv2fVjPuJPbGmWMqR9l8","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDc3Mjk2NX0.LELo5JDooPxRdhT1199u_3iSNA_bNg4KYKlv2c8RlxU","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDgyNTY3N30.4nmQtrNFArgD07bI-k_i87oFVJ3H64VCnfFGfrUCU5U","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDgyNTY3OH0.YdtLggsoW_eGomZJgs6d03O8JIGPrdu2nmVIk2VTyLU","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Dummy\",\n  \"lastname\": \"gupta\",\n  \"username\": \"rahul\",\n  \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\"\n}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlYzgwY2RhZWVkNDU1NDFkYzZhNzJhYyIsImlhdCI6MTU5MDgyNTc1Mn0.5Pq2KEzZmYu9fGmliuV7Q2ZShRG21AKhFq4tZcI9gRM","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ec80cdaeed45541dc6a72ac","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"Rahul\",\n  \"lastname\": \"gupta\",\n  \"username\": \"rahul\",\n  \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\"\n}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDgyNTc4NX0.lchlWTjRzzpblT0N9eCt6jSFGkyRKxnf4KKQ4igKpWc","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ecf86a10017dc47b819aee8","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ecebbe52af7753aa4246b7d","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"quote\": \"Latest updated quote\",\n  \"author\": \"Rahul Gupta\",\n  \"created\": {\n    \"role\": \"Admin\",\n    \"_id\": \"5ecab3b31d626410f81d28a8\",\n    \"firstname\": \"Chaheti\",\n    \"lastname\": \"Gupta\",\n    \"username\": \"admin\",\n    \"password\": \"$2b$10$0VNGUxw9ml1GbfHg9q8aPOV3PTBUE5AWId7OyBr.hQm9iLkZgngsW\",\n    \"__v\": 0\n  },\n  \"likes\": 2\n}","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ecf86a10017dc47b819aee8","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecd547e616e3941ec6360ae","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2Q1NDdlNjE2ZTM5NDFlYzYzNjBhZSIsImlhdCI6MTU5MDgyNTkyN30.XrQzGe7g5Igtc3w10qe0lu5sjjZq8HP0j25jNrkY3vk","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[users.js]: 5ecd547e616e3941ec6360ae","level":"info"}
+{"message":"Routes[users.js]: {\n  \"firstname\": \"shivam\",\n  \"lastname\": \"Dubey\",\n  \"username\": \"shivam\",\n  \"password\": \"$2b$10$ZyHtYMTTzFf1f3YTOC8f.uqEJWQWFcpobSluywIpXzgjqTBRzOupu\"\n}","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDgyNTk5MX0.Fg65LxIIUzratuPZLXOGvvJ0PVruDX7rwaB0jX5nnKE","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecebbe52af7753aa4246b7d\",\n  \"quote\": \"Latest updated quote\",\n  \"author\": \"Rahul Gupta\",\n  \"likes\": 3,\n  \"createdBy\": {\n    \"role\": \"Admin\",\n    \"_id\": \"5ecab3b31d626410f81d28a8\",\n    \"firstname\": \"Chaheti\",\n    \"lastname\": \"Gupta\",\n    \"username\": \"admin\",\n    \"password\": \"$2b$10$0VNGUxw9ml1GbfHg9q8aPOV3PTBUE5AWId7OyBr.hQm9iLkZgngsW\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-27T19:13:41.558Z\",\n  \"updatedAt\": \"2020-05-30T08:04:06.383Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ecf86a10017dc47b819aee8","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecd5d7e616e3941ec6360af\",\n  \"quote\": \"Let's Update it\",\n  \"author\": \"Rahul..\",\n  \"likes\": 4,\n  \"createdBy\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Rahul\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-26T18:18:38.254Z\",\n  \"updatedAt\": \"2020-05-27T19:27:26.501Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: 5ecf86a10017dc47b819aee8","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: 5ecd5d7e616e3941ec6360af","level":"info"}
+{"message":"Routes[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Controller[users.js]: 5ed2151f7f0ba833f04f3c86","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlZDIxNTFmN2YwYmE4MzNmMDRmM2M4NiIsImlhdCI6MTU5MDgyNjI3Nn0.OLQSARfwgAFMyx3aO7XpaaP7RtJPyRoUxJfkhM36Jk8","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecd5e99616e3941ec6360b1\",\n  \"quote\": \"Hey How's everything\",\n  \"author\": \"Known\",\n  \"likes\": 4,\n  \"createdBy\": {\n    \"role\": \"User\",\n    \"_id\": \"5ec80cdaeed45541dc6a72ac\",\n    \"username\": \"rahul\",\n    \"password\": \"$2b$10$Tg.5TDkSKznsHS6edXc/h.HRYxZM8ENgWENP6.gyOqyJaJmZA.zfq\",\n    \"firstname\": \"Rahul\",\n    \"lastname\": \"gupta\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-26T18:23:21.644Z\",\n  \"updatedAt\": \"2020-05-27T19:27:16.133Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDg0NjIzOH0.UKFqpgCOwYFGJA8bCWKnwkm4xc6L3XqQdIBs57_v3_g","level":"info"}
+{"message":"Main[app.js]: in main","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDg0NjMxNn0.XMKCcJwAzEJ0iuuAQxn85HE0RtH8gWEr642C2dGVqWI","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Routes[users.js]: Users GET All","level":"debug"}
+{"message":"Routes[users.js]: {}","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: {\n  \"username\": \"admin\",\n  \"password\": \"admin\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Controller[users.js]: {\n  \"username\": \"admin\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: Successfully logged In","level":"silly"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDg1NzQxM30.d-CdEoWMrWH48t91ZPmgvxKByHq9fB-7GAIMWigiuT4","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[quote.js]: in getAll","level":"silly"}
+{"message":"Controller[quote.js]: in findById","level":"silly"}
+{"message":"Routes[quote.js]: {\n  \"_id\": \"5ecebbe52af7753aa4246b7d\",\n  \"quote\": \"Latest updated quote\",\n  \"author\": \"Rahul Gupta\",\n  \"likes\": 4,\n  \"createdBy\": {\n    \"role\": \"Admin\",\n    \"_id\": \"5ecab3b31d626410f81d28a8\",\n    \"firstname\": \"Chaheti\",\n    \"lastname\": \"Gupta\",\n    \"username\": \"admin\",\n    \"password\": \"$2b$10$0VNGUxw9ml1GbfHg9q8aPOV3PTBUE5AWId7OyBr.hQm9iLkZgngsW\",\n    \"__v\": 0\n  },\n  \"createdAt\": \"2020-05-27T19:13:41.558Z\",\n  \"updatedAt\": \"2020-05-30T08:06:34.399Z\",\n  \"__v\": 0\n}","level":"info"}
+{"message":"Controller[quote.js]: in updateById","level":"silly"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[quote.js]: in getAll","level":"silly"}
+{"message":"Routes[quote.js]: 5ecd5d7e616e3941ec6360af","level":"info"}
+{"message":"Controller[quote.js]: in findById","level":"silly"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Controller[users.js]: in findById","level":"silly"}
+{"message":"Routes[users.js]: Users GET All","level":"info"}
+{"message":"Controller[users.js]: in getAll","level":"silly"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Controller[users.js]: in findById","level":"silly"}
+{"message":"Routes[users.js]: 5ed2151f7f0ba833f04f3c86","level":"info"}
+{"message":"Controller[users.js]: in deleteById","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[quote.js]: in getAll","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"username\": \"admin\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: 5ecab3b31d626410f81d28a8","level":"info"}
+{"message":"Main[app.js]: Successfully logged In","level":"silly"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlY2FiM2IzMWQ2MjY0MTBmODFkMjhhOCIsImlhdCI6MTU5MDg1NzU3MH0.ShgOZQdnjnkm3T6gjH9LHsEakEbeOR8sTSelnSYePZU","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[quote.js]: in getAll","level":"silly"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Controller[users.js]: in findById","level":"silly"}
+{"message":"Routes[users.js]: Users GET All","level":"info"}
+{"message":"Controller[users.js]: in getAll","level":"silly"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Controller[users.js]: in findById","level":"silly"}
+{"message":"Routes[users.js]: Delete User With Id","level":"info"}
+{"message":"Controller[users.js]: in deleteById","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Authentication[authenticate.js]: Unauthorize access","level":"silly"}
+{"message":"Authentication[authenticate.js]: Unauthorize access","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: in register","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"name\": \"Rahul\",\n  \"email\": \"rahulgupta0240@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ValidationError: password: Cast to Number failed for value \"$2b$10$xX7w1hl6hvq0zVgqAU9e2uk.cJI3w9e/tXqN7uR/xJkXqEpDxQVwq\" at path \"password\"","level":"error"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta0240@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of null","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: in register","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"name\": \"Rahul\",\n  \"email\": \"rahulgupta0240@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ValidationError: password: Cast to Number failed for value \"$2b$10$p04yUXizG9KU8Zd1kMeDGujE13h879WadZ5gvP/5UX9ssF0jggHtS\" at path \"password\"","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: in register","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"name\": \"Rahul\",\n  \"email\": \"rahulgupta0240@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta0240@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of null","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta0240@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: 5fa38b6fd002f13c68fe89fd","level":"info"}
+{"message":"Routes[quote.js]: Successfully logged In","level":"silly"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmYTM4YjZmZDAwMmYxM2M2OGZlODlmZCIsImlhdCI6MTYwNDU1MzYyOH0.lqta6L5IoY__dGA7Gl8RaUxcngaWp0LM93zK7foBuJg","level":"info"}
+{"message":"Routes[quote.js]: {\n  \"name\": \"learn java\",\n  \"duration\": \"4 weeks\",\n  \"domain\": \"computer science\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Routes[quote.js]: {\n  \"name\": \"learn java\",\n  \"duration\": \"4 weeks\",\n  \"domain\": \"computer science\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: in register","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"name\": \"Rahul\",\n  \"email\": \"rahulgupta0240@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta0240@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'password' of null","level":"error"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Routes[quote.js]: { _id: 5fa38e494c727e26c84e2a1c,\n  createdAt: 2020-11-05T05:31:53.180Z,\n  updatedAt: 2020-11-05T05:31:53.180Z,\n  __v: 0 }","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Routes[quote.js]: null","level":"info"}
+{"message":"Controller[users.js]: in register","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02401@gmail.com\",\n  \"password\": \"admin@123\",\n  \"image\": \"image\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta02401@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: 5fa38fbe2b48780c147734e0","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta02401@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: false","level":"info"}
+{"message":"Controller[users.js]: { _id: 5fa38fbe2b48780c147734e0,\n  firstname: 'rahul',\n  lastname: 'gupta',\n  email: 'rahulgupta02401@gmail.com',\n  password:\n   '$2b$10$VmKtpOGwnmfQIxKXBvE.rOIYaRzuSNsSrVR.5Nn.hWdR81BfwNkpq',\n  image: 'image',\n  createdAt: 2020-11-05T05:38:06.412Z,\n  updatedAt: 2020-11-05T05:38:06.412Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: 5fa38fbe2b48780c147734e0","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta02401@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: false","level":"info"}
+{"message":"Controller[users.js]: [object Object]","level":"info"}
+{"message":"Controller[users.js]: { _id: 5fa38fbe2b48780c147734e0,\n  firstname: 'rahul',\n  lastname: 'gupta',\n  email: 'rahulgupta02401@gmail.com',\n  password:\n   '$2b$10$VmKtpOGwnmfQIxKXBvE.rOIYaRzuSNsSrVR.5Nn.hWdR81BfwNkpq',\n  image: 'image',\n  createdAt: 2020-11-05T05:38:06.412Z,\n  updatedAt: 2020-11-05T05:38:06.412Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: 5fa38fbe2b48780c147734e0","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta02401@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: false","level":"info"}
+{"message":"Controller[users.js]: admin123","level":"info"}
+{"message":"Controller[users.js]: { _id: 5fa38fbe2b48780c147734e0,\n  firstname: 'rahul',\n  lastname: 'gupta',\n  email: 'rahulgupta02401@gmail.com',\n  password:\n   '$2b$10$VmKtpOGwnmfQIxKXBvE.rOIYaRzuSNsSrVR.5Nn.hWdR81BfwNkpq',\n  image: 'image',\n  createdAt: 2020-11-05T05:38:06.412Z,\n  updatedAt: 2020-11-05T05:38:06.412Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: 5fa38fbe2b48780c147734e0","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Routes[quote.js]: null","level":"info"}
+{"message":"Controller[users.js]: in register","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta0240@gmail.com\",\n  \"password\": \"admin@123\",\n  \"image\": \"image\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta0240@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: false","level":"info"}
+{"message":"Controller[users.js]: admin123","level":"info"}
+{"message":"Controller[users.js]: { _id: 5fa390c4191f1157943ef5d9,\n  firstname: 'rahul',\n  lastname: 'gupta',\n  email: 'rahulgupta0240@gmail.com',\n  password:\n   '$2b$10$hPdAFeuwdTDYLIhXGJvWP.7R.CV.WZ/tUWutrCOhUKUpi1X.cNUTa',\n  image: 'image',\n  createdAt: 2020-11-05T05:42:28.155Z,\n  updatedAt: 2020-11-05T05:42:28.155Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: 5fa390c4191f1157943ef5d9","level":"info"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta0240@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: 5fa38b6fd002f13c68fe89fd","level":"info"}
+{"message":"Routes[quote.js]: Successfully logged In","level":"silly"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmYTM4YjZmZDAwMmYxM2M2OGZlODlmZCIsImlhdCI6MTYwNDU1NTAwNn0.W37nf1e_6mQ5K0ahTqcgCkgYUUXm3hYUPOYRRl65KD0","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta0240@gmail.com\",\n  \"password\": \"admin@123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: 5fa38b6fd002f13c68fe89fd","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Routes[quote.js]: null","level":"info"}
+{"message":"Controller[users.js]: in register","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta@gmail.com\",\n  \"password\": \"admin@123\",\n  \"image\": \"image\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta@gmail.com\",\n  \"password\": \"admin@123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Routes[quote.js]: Successfully logged In","level":"silly"}
+{"message":"Controller[users.js]: admin@123","level":"info"}
+{"message":"Controller[users.js]: { _id: 5fa391cc191f1157943ef5da,\n  firstname: 'rahul',\n  lastname: 'gupta',\n  email: 'rahulgupta@gmail.com',\n  password:\n   '$2b$10$xeYuTZp/pLJeMqWDj/cbSOEzdF35sW7meVwTANJRMu5QL/Y5OPR.e',\n  image: 'image',\n  createdAt: 2020-11-05T05:46:52.532Z,\n  updatedAt: 2020-11-05T05:46:52.532Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: 5fa391cc191f1157943ef5da","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: {}","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: 5fa38fbe2b48780c147734e0","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: 5fa38fbe2b48780c147734e0","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: { courseId: [ 5fa38ce4289b6d2ef41c6abb ],\n  _id: 5fa39cee5c996f40c8016abb,\n  studentId: 5fa38fbe2b48780c147734e0,\n  createdAt: 2020-11-05T06:34:22.479Z,\n  updatedAt: 2020-11-05T06:34:22.479Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'push' of undefined","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: 5fa38fbe2b48780c147734e0","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: { courseId: [ 5fa38ce4289b6d2ef41c6abb ],\n  _id: 5fa39cee5c996f40c8016abb,\n  studentId: 5fa38fbe2b48780c147734e0,\n  createdAt: 2020-11-05T06:34:22.479Z,\n  updatedAt: 2020-11-05T06:34:22.479Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: in if user","level":"info"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'push' of undefined","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: 5fa38fbe2b48780c147734e0","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: { courseId: [ 5fa38ce4289b6d2ef41c6abb ],\n  _id: 5fa39cee5c996f40c8016abb,\n  studentId: 5fa38fbe2b48780c147734e0,\n  createdAt: 2020-11-05T06:34:22.479Z,\n  updatedAt: 2020-11-05T06:34:22.479Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: undefined","level":"info"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'push' of undefined","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: 5fa38fbe2b48780c147734e0","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: { courseId: [ 5fa38ce4289b6d2ef41c6abb ],\n  _id: 5fa39cee5c996f40c8016abb,\n  studentId: 5fa38fbe2b48780c147734e0,\n  createdAt: 2020-11-05T06:34:22.479Z,\n  updatedAt: 2020-11-05T06:34:22.479Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: 5fa38ce4289b6d2ef41c6abb","level":"info"}
+{"message":"Controller[users.js]: TypeError: user.save is not a function","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: 5fa38fbe2b48780c147734e0","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: { courseId: [ 5fa38ce4289b6d2ef41c6abb ],\n  _id: 5fa39cee5c996f40c8016abb,\n  studentId: 5fa38fbe2b48780c147734e0,\n  createdAt: 2020-11-05T06:34:22.479Z,\n  updatedAt: 2020-11-05T06:34:22.479Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'courseId' of undefined","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: 5fa38fbe2b48780c147734e0","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: { courseId: [ 5fa38ce4289b6d2ef41c6abb ],\n  _id: 5fa39cee5c996f40c8016abb,\n  studentId: 5fa38fbe2b48780c147734e0,\n  createdAt: 2020-11-05T06:34:22.479Z,\n  updatedAt: 2020-11-05T06:34:22.479Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: 5fa38ce4289b6d2ef41c6abb","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: [object Object]","level":"info"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: undefined","level":"info"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: [object Object]","level":"info"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: undefined","level":"info"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: 1,3,5","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'reduce' of undefined","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot read property 'courseId' of undefined","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot convert undefined or null to object","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: 2,3,4,5,6,7,8,9","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: [object Object]","level":"info"}
+{"message":"Controller[users.js]: 1,3,5","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: 1,3,5","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot read property '1' of undefined","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot read property '[object Object]' of undefined","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot read property '[object Object]' of undefined","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot read property '[object Object]' of undefined","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot convert undefined or null to object","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Routes[quote.js]: {\n  \"name\": \"learn node\",\n  \"duration\": \"4 weeks\",\n  \"domain\": \"computer science\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Routes[quote.js]: 5fa391cc191f1157943ef5da","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: null","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot create property '{ _id: 5fa38ce4289b6d2ef41c6abb,\n  name: 'learn java',\n  duration: '4 weeks',\n  domain: 'computer science',\n  createdAt: 2020-11-05T05:25:56.655Z,\n  updatedAt: 2020-11-05T05:25:56.655Z,\n  __v: 0 }' on number '1'","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot create property '{ _id: 5fa38ce4289b6d2ef41c6abb,\n  name: 'learn java',\n  duration: '4 weeks',\n  domain: 'computer science',\n  createdAt: 2020-11-05T05:25:56.655Z,\n  updatedAt: 2020-11-05T05:25:56.655Z,\n  __v: 0 }' on number '1'","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot read property '[object Array]' of undefined","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot read property '[object Array]' of undefined","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ReferenceError: k is not defined","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: SyntaxError: Unexpected token o in JSON at position 1","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: ","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: SyntaxError: Unexpected token _ in JSON at position 2","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: SyntaxError: Unexpected end of JSON input","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: SyntaxError: Unexpected token _ in JSON at position 2","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: SyntaxError: Unexpected token o in JSON at position 1","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot create property '{ _id: 5fa38ce4289b6d2ef41c6abb,\n  name: 'learn java',\n  duration: '4 weeks',\n  domain: 'computer science',\n  createdAt: 2020-11-05T05:25:56.655Z,\n  updatedAt: 2020-11-05T05:25:56.655Z,\n  __v: 0 }' on string '{\"{ _id: 5fa38ce4289b6d2ef41c6abb,\\n  name: 'learn java',\\n  duration: '4 weeks',\\n  domain: 'computer science',\\n  createdAt: 2020-11-05T05:25:56.655Z,\\n  updatedAt: 2020-11-05T05:25:56.655Z,\\n  __v: 0 }\":1}'","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot create property '{ _id: 5fa38ce4289b6d2ef41c6abb,\n  name: 'learn java',\n  duration: '4 weeks',\n  domain: 'computer science',\n  createdAt: 2020-11-05T05:25:56.655Z,\n  updatedAt: 2020-11-05T05:25:56.655Z,\n  __v: 0 }' on number '1'","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot create property '{ _id: 5fa38ce4289b6d2ef41c6abb,\n  name: 'learn java',\n  duration: '4 weeks',\n  domain: 'computer science',\n  createdAt: 2020-11-05T05:25:56.655Z,\n  updatedAt: 2020-11-05T05:25:56.655Z,\n  __v: 0 }' on number '1'","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot create property '{ _id: 5fa38ce4289b6d2ef41c6abb,\n  name: 'learn java',\n  duration: '4 weeks',\n  domain: 'computer science',\n  createdAt: 2020-11-05T05:25:56.655Z,\n  updatedAt: 2020-11-05T05:25:56.655Z,\n  __v: 0 }' on number '1'","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: TypeError: Cannot create property '5fa38ce4289b6d2ef41c6abb' on number '1'","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Routes[quote.js]: 5fa391cc191f1157943ef5da","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: { courseId: [ 5fa38ce4289b6d2ef41c6abb ],\n  _id: 5fa3ade1a7ade93488bb543d,\n  studentId: 5fa391cc191f1157943ef5da,\n  createdAt: 2020-11-05T07:46:41.871Z,\n  updatedAt: 2020-11-05T07:46:42.090Z,\n  __v: 1 }","level":"info"}
+{"message":"Controller[users.js]: 5fa38ce4289b6d2ef41c6abb","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: 5fa38fbe2b48780c147734e0","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: { courseId: [ 5fa38ce4289b6d2ef41c6abb, 5fa38ce4289b6d2ef41c6abb ],\n  _id: 5fa39cee5c996f40c8016abb,\n  studentId: 5fa38fbe2b48780c147734e0,\n  createdAt: 2020-11-05T06:34:22.479Z,\n  updatedAt: 2020-11-05T07:02:09.751Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: 5fa38ce4289b6d2ef41c6abb,5fa38ce4289b6d2ef41c6abb","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: User Details Not Found","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: [object Object]","level":"silly"}
+{"message":"Routes[quote.js]: User Details Not Found","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: User Details Not Found","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Routes[quote.js]: null","level":"info"}
+{"message":"Controller[users.js]: in register","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02402@gmail.com\",\n  \"password\": \"admin@123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Routes[quote.js]: { _id: 5fa3c726f38d6026c0fedc64,\n  firstname: 'rahul',\n  lastname: 'gupta',\n  email: 'rahulgupta02402@gmail.com',\n  password:\n   '$2b$10$W0Rlb3OciGTHWzbI8PjPIO.RfPq9qNQnjkB2ehWW8fDdGsp2wSwOu',\n  createdAt: 2020-11-05T09:34:30.941Z,\n  updatedAt: 2020-11-05T09:34:30.941Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Routes[quote.js]: null","level":"info"}
+{"message":"Controller[users.js]: in register","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02403@gmail.com\",\n  \"password\": \"admin@123\",\n  \"Image\": \"uploads\\\\e098c9de64cc8ac2a7cd74372fd13a11\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Routes[quote.js]: null","level":"info"}
+{"message":"Controller[users.js]: in register","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02404@gmail.com\",\n  \"password\": \"admin@123\",\n  \"Image\": \"uploads\\\\Screenshot (32).png\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Routes[quote.js]: null","level":"info"}
+{"message":"Controller[users.js]: in register","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02405@gmail.com\",\n  \"password\": \"admin@123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: User Details Not Found","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: User Details Not Found","level":"silly"}
+{"message":"Routes[quote.js]: User Details Not Found","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Routes[quote.js]: null","level":"info"}
+{"message":"Controller[users.js]: in register","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02406@gmail.com\",\n  \"password\": \"admin@123\",\n  \"Image\": \"uploads\\\\IMG_20200103_232214 (1).jpg\"\n}","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Authentication[authenticate.js]: Unauthorize access","level":"silly"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta@gmail.com\",\n  \"password\": \"admin@123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Routes[quote.js]: Successfully logged In","level":"silly"}
+{"message":"Controller[users.js]: admin@123","level":"info"}
+{"message":"Controller[users.js]: { _id: 5fa391cc191f1157943ef5da,\n  firstname: 'rahul',\n  lastname: 'gupta',\n  email: 'rahulgupta@gmail.com',\n  password:\n   '$2b$10$xeYuTZp/pLJeMqWDj/cbSOEzdF35sW7meVwTANJRMu5QL/Y5OPR.e',\n  image: 'image',\n  createdAt: 2020-11-05T05:46:52.532Z,\n  updatedAt: 2020-11-05T05:46:52.532Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[users.js]: 5fa391cc191f1157943ef5da","level":"info"}
+{"message":"Controller[users.js]: true","level":"info"}
+{"message":"Authentication[authenticate.js]: Unauthorize access","level":"silly"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"Authentication[authenticate.js]: Unauthorize access","level":"silly"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Routes[quote.js]: Quotes GET All","level":"debug"}
+{"message":"Authentication[authenticate.js]: Unauthorize access","level":"silly"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Authentication[authenticate.js]: Unauthorize Admin access","level":"info"}
+{"message":"Controller[users.js]: {\n  \"email\": \"rahulgupta0240@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[users.js]: in findByUsername","level":"silly"}
+{"message":"Controller[users.js]: 5fa38b6fd002f13c68fe89fd","level":"info"}
+{"message":"Routes[quote.js]: Successfully logged In","level":"silly"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmYTM4YjZmZDAwMmYxM2M2OGZlODlmZCIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTYwNDU3MTA0NH0.e9kI0xQ2PuTGX1dcGRk2fgPNwpTQMnPcf5_0TmRTVw4","level":"info"}
+{"message":"Authentication[authenticate.js]: userid","level":"info"}
+{"message":"Controller[users.js]: in createOne","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: { _id: 5fa3cc33bdb5da36d4ba5d51,\n  firstname: 'rahul',\n  lastname: 'gupta',\n  email: 'rahulgupta02406@gmail.com',\n  password:\n   '$2b$10$9Qlc/PvDEVV5IVLgR846J.QVol2ONV4YgktkRA00PpEVqJh9LF75G',\n  createdAt: 2020-11-05T09:56:03.409Z,\n  updatedAt: 2020-11-05T09:56:03.409Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"Controller[student.js]: in register","level":"silly"}
+{"message":"Controller[student.js]: {\n  \"email\": \"rahulgupta02407@gmail.com\",\n  \"password\": \"admin@123\",\n  \"Image\": \"uploads\\\\IMG_20200103_232214 (1).jpg\"\n}","level":"info"}
+{"message":"Controller[student.js]: in createOne","level":"silly"}
+{"message":"Controller[student.js]: ValidationError: image: Path `image` is required., firstname: Path `firstname` is required.","level":"error"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"Controller[student.js]: in register","level":"silly"}
+{"message":"Controller[student.js]: {\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02407@gmail.com\",\n  \"password\": \"admin@123\",\n  \"Image\": \"uploads\\\\IMG_20200103_232214 (1).jpg\"\n}","level":"info"}
+{"message":"Controller[student.js]: in createOne","level":"silly"}
+{"message":"Controller[student.js]: ValidationError: image: Path `image` is required., firstname: Path `firstname` is required.","level":"error"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"Controller[student.js]: in register","level":"silly"}
+{"message":"Controller[student.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02407@gmail.com\",\n  \"password\": \"admin@123\",\n  \"Image\": \"uploads\\\\IMG_20200103_232214 (1).jpg\"\n}","level":"info"}
+{"message":"Controller[student.js]: in createOne","level":"silly"}
+{"message":"Controller[student.js]: ValidationError: image: Path `image` is required.","level":"error"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"Controller[student.js]: in register","level":"silly"}
+{"message":"Controller[student.js]: {\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02407@gmail.com\",\n  \"password\": \"admin@123\",\n  \"Image\": \"uploads\\\\images (3).jpg\"\n}","level":"info"}
+{"message":"Controller[student.js]: in createOne","level":"silly"}
+{"message":"Controller[student.js]: ValidationError: image: Path `image` is required., firstname: Path `firstname` is required.","level":"error"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"Controller[student.js]: in register","level":"silly"}
+{"message":"Controller[student.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02407@gmail.com\",\n  \"password\": \"admin@123\",\n  \"Image\": \"uploads\\\\images (3).jpg\"\n}","level":"info"}
+{"message":"Controller[student.js]: in createOne","level":"silly"}
+{"message":"Controller[student.js]: ValidationError: image: Path `image` is required.","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"Controller[student.js]: in register","level":"silly"}
+{"message":"Controller[student.js]: {\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02407@gmail.com\",\n  \"password\": \"admin@123\",\n  \"image\": \"uploads\\\\images (3).jpg\"\n}","level":"info"}
+{"message":"Controller[student.js]: in createOne","level":"silly"}
+{"message":"Controller[student.js]: ValidationError: firstname: Path `firstname` is required.","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[student.js]: User Details Not Found","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[student.js]: User Details Not Found","level":"silly"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"Controller[student.js]: in register","level":"silly"}
+{"message":"Controller[student.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02407@gmail.com\",\n  \"password\": \"admin@123\",\n  \"image\": \"uploads\\\\Screenshot (9).png\"\n}","level":"info"}
+{"message":"Controller[student.js]: in createOne","level":"silly"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: { _id: 5fa3dd3246aa7037984a5738,\n  firstname: 'rahul',\n  lastname: 'gupta',\n  email: 'rahulgupta02407@gmail.com',\n  password:\n   '$2b$10$dG2r9QqCXBZn99BBcVQzk.6gSgKs2u0BUbeWqKVScOQetpXFNquOK',\n  image: 'uploads\\\\Screenshot (9).png',\n  createdAt: 2020-11-05T11:08:34.368Z,\n  updatedAt: 2020-11-05T11:08:34.368Z,\n  __v: 0 }","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"Controller[student.js]: in register","level":"silly"}
+{"message":"Controller[student.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02408@gmail.com\",\n  \"password\": \"admin@123\"\n}","level":"info"}
+{"message":"Controller[student.js]: in createOne","level":"silly"}
+{"message":"Controller[student.js]: ValidationError: image: Path `image` is required.","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[admin.js]: {\n  \"name\": \"learn Aws\",\n  \"duration\": \"4 weeks\",\n  \"domain\": \"computer science\"\n}","level":"info"}
+{"message":"Controller[admin.js]: Create Course","level":"silly"}
+{"message":"Routes[admin.js]: {}","level":"info"}
+{"message":"Controller[admin.js]: Create Course","level":"silly"}
+{"message":"Controller[admin.js]: ValidationError: domain: Path `domain` is required., duration: Path `duration` is required., name: Path `name` is required.","level":"error"}
+{"message":"Routes[admin.js]: {\n  \"name\": \"learn Aws\"\n}","level":"info"}
+{"message":"Controller[admin.js]: Create Course","level":"silly"}
+{"message":"Controller[admin.js]: ValidationError: domain: Path `domain` is required., duration: Path `duration` is required.","level":"error"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Authentication[authenticate.js]: Unauthorize access","level":"silly"}
+{"message":"Controller[student.js]: {\n  \"email\": \"rahulgupta02401@gmail.com\",\n  \"password\": \"admin123\"\n}","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Controller[student.js]: false","level":"info"}
+{"message":"Controller[student.js]: {\n  \"email\": \"rahulgupta02401@gmail.com\",\n  \"password\": \"admin@123\"\n}","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Controller[student.js]: true","level":"info"}
+{"message":"Routes[student.js]: Successfully logged In","level":"silly"}
+{"message":"Controller[student.js]: true","level":"info"}
+{"message":"Routes[student.js]:  GET All student","level":"debug"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Controller[student.js]: in findByUsername","level":"silly"}
+{"message":"Routes[student.js]: null","level":"info"}
+{"message":"Controller[student.js]: in register","level":"silly"}
+{"message":"Controller[student.js]: {\n  \"firstname\": \"rahul\",\n  \"lastname\": \"gupta\",\n  \"email\": \"rahulgupta02409@gmail.com\",\n  \"password\": \"admin@123\",\n  \"image\": \"uploads\\\\photo-1604575161715.png\"\n}","level":"info"}
+{"message":"Controller[student.js]: in createOne","level":"silly"}
+{"message":"Routes[student.js]:  GET All student","level":"debug"}
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}

@@ -1,0 +1,33 @@
+{
+  "name": "openxcellassignment",
+  "version": "1.0.0",
+  "description": "student portal api",
+  "main": "app.js",
+  "scripts": {
+    "start": "npx babel-node src/server.js",
+    "server-watch": "npx babel-watch src/server.js"
+  },
+  "author": "Rahul",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "core-js": "^3.2.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.9",
+    "multer": "^1.4.2",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/preset-env": "^7.9.0",
+    "babel-preset-minify": "",
+    "babel-watch": "^7.0.0",
+    "eslint": "^7.1.0",
+    "eslint-plugin-security": "^1.4.0"
+  }
+}

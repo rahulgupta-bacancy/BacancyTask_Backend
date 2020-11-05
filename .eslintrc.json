@@ -1,0 +1,34 @@
+    {
+    "env": {
+        "browser": true,
+        "es6": true,
+        "node": true
+    },
+    "extends":  "eslint:recommended"  ,
+    "globals": {
+        "Atomics": "readonly",
+        "SharedArrayBuffer": "readonly"
+    },
+    "plugins": [
+        "security"
+    ],
+    
+    "parserOptions": {
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    },
+    "rules": {
+
+        "no-console": "error",
+        "require-atomic-updates": "error",
+        "no-trailing-spaces": "error",
+        "security/detect-object-injection": "error",
+        "no-var": "error",
+        "prefer-const": "warn",
+        "quotes": ["warn", "single"],
+        "prefer-object-spread": "warn",
+        "prefer-template": "warn",
+        "semi": "warn"
+    
+    }
+}
