@@ -1,4 +1,4 @@
-# StudentPortalAPI
+# BacancyTask
 
 To get started with the project go through below steps:
 
