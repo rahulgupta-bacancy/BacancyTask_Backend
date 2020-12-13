@@ -5,7 +5,7 @@ const logger = new Logger('Authentication', 'authenticate.js');
 
 /**
  * @exports
- * authMiddleware for checking Ordinary User
+ * authMiddleware for authenticating User
  */
 export const authMiddleware = (req, res, next) => {
     const token = req.headers && req.headers.authorization;
@@ -19,20 +19,4 @@ export const authMiddleware = (req, res, next) => {
       });
       logger.silly('Unauthorize access');
     }
-  };
-  /**
- * @exports
- * verifyAdmin for checking Admin User
- */
-  export const  verifyAdmin= async function(req,res,next){
-    logger.info('userid',req.user.id);
-      if(req.user.role === 'admin'){
-      next();
-      }
-      else{
-    logger.info('Unauthorize Admin access');
-      res.status(403).json({
-      err: 'unauthorized Admin access',
-    });
-      }
   };

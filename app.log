@@ -1,1 +1,10 @@
-
+{"message":"server[server.js]: Starting express server on port 4444","level":"info"}
+{"message":"Routes[users.js]:  GET All Users","level":"debug"}
+{"message":"Controller[users.js]: {\n  \"email\": \"admin@gmail.com\",\n  \"password\": \"admin\"\n}","level":"info"}
+{"message":"Routes[users.js]: Successfully logged In","level":"silly"}
+{"message":"Controller[users.js]: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidXNlciIsImlhdCI6MTYwNzg3OTAwM30.1eyE7Mi7Owpa5w0VsS4NY-_RUInRrSBnJFCI7b1ydcI","level":"info"}
+{"message":"Routes[users.js]:  GET All Users","level":"debug"}
+{"message":"Routes[users.js]:  GET All Users","level":"debug"}
+{"message":"Routes[users.js]:  GET All Users","level":"debug"}
+{"message":"Routes[users.js]:  GET All Users","level":"debug"}
+{"message":"Controller[users.js]: {\n  \"email\": \"fds\",\n  \"password\": \"fsdf\"\n}","level":"info"}

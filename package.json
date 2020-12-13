@@ -1,7 +1,7 @@
 {
-  "name": "openxcellassignment",
+  "name": "userlistingapi",
   "version": "1.0.0",
-  "description": "student portal api",
+  "description": "userlistingapi",
   "main": "app.js",
   "scripts": {
     "start": "npx babel-node src/server.js",
@@ -17,7 +17,6 @@
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.9",
-    "multer": "^1.4.2",
     "winston": "^3.2.1"
   },
   "devDependencies": {
